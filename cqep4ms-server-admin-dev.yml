@@ -4,7 +4,7 @@ spring:
       name: admin
       password: 123456
 server:
-  port: 5721
+  port: 5722
 eureka:
   client:
     healthcheck:
